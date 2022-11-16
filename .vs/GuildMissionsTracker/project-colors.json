@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4d5761d6-5b06-493e-8a38-ed7d6b1fb912": {
+      "ProjectGuid": "4d5761d6-5b06-493e-8a38-ed7d6b1fb912",
+      "DisplayName": "GuildMissionsTracker",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

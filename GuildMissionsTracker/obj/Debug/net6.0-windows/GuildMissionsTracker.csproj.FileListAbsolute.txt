@@ -1,0 +1,17 @@
+C:\Users\Aiden\Desktop\Development\GuildMissionTracker\GuildMissionsTracker\GuildMissionsTracker\bin\Debug\net6.0-windows\GuildMissionsTracker.exe
+C:\Users\Aiden\Desktop\Development\GuildMissionTracker\GuildMissionsTracker\GuildMissionsTracker\bin\Debug\net6.0-windows\GuildMissionsTracker.deps.json
+C:\Users\Aiden\Desktop\Development\GuildMissionTracker\GuildMissionsTracker\GuildMissionsTracker\bin\Debug\net6.0-windows\GuildMissionsTracker.runtimeconfig.json
+C:\Users\Aiden\Desktop\Development\GuildMissionTracker\GuildMissionsTracker\GuildMissionsTracker\bin\Debug\net6.0-windows\GuildMissionsTracker.dll
+C:\Users\Aiden\Desktop\Development\GuildMissionTracker\GuildMissionsTracker\GuildMissionsTracker\bin\Debug\net6.0-windows\ref\GuildMissionsTracker.dll
+C:\Users\Aiden\Desktop\Development\GuildMissionTracker\GuildMissionsTracker\GuildMissionsTracker\bin\Debug\net6.0-windows\GuildMissionsTracker.pdb
+C:\Users\Aiden\Desktop\Development\GuildMissionTracker\GuildMissionsTracker\GuildMissionsTracker\obj\Debug\net6.0-windows\GuildMissionsTracker.csproj.AssemblyReference.cache
+C:\Users\Aiden\Desktop\Development\GuildMissionTracker\GuildMissionsTracker\GuildMissionsTracker\obj\Debug\net6.0-windows\GuildMissionsTracker.Form1.resources
+C:\Users\Aiden\Desktop\Development\GuildMissionTracker\GuildMissionsTracker\GuildMissionsTracker\obj\Debug\net6.0-windows\GuildMissionsTracker.csproj.GenerateResource.cache
+C:\Users\Aiden\Desktop\Development\GuildMissionTracker\GuildMissionsTracker\GuildMissionsTracker\obj\Debug\net6.0-windows\GuildMissionsTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aiden\Desktop\Development\GuildMissionTracker\GuildMissionsTracker\GuildMissionsTracker\obj\Debug\net6.0-windows\GuildMissionsTracker.AssemblyInfoInputs.cache
+C:\Users\Aiden\Desktop\Development\GuildMissionTracker\GuildMissionsTracker\GuildMissionsTracker\obj\Debug\net6.0-windows\GuildMissionsTracker.AssemblyInfo.cs
+C:\Users\Aiden\Desktop\Development\GuildMissionTracker\GuildMissionsTracker\GuildMissionsTracker\obj\Debug\net6.0-windows\GuildMissionsTracker.csproj.CoreCompileInputs.cache
+C:\Users\Aiden\Desktop\Development\GuildMissionTracker\GuildMissionsTracker\GuildMissionsTracker\obj\Debug\net6.0-windows\GuildMissionsTracker.dll
+C:\Users\Aiden\Desktop\Development\GuildMissionTracker\GuildMissionsTracker\GuildMissionsTracker\obj\Debug\net6.0-windows\ref\GuildMissionsTracker.dll
+C:\Users\Aiden\Desktop\Development\GuildMissionTracker\GuildMissionsTracker\GuildMissionsTracker\obj\Debug\net6.0-windows\GuildMissionsTracker.pdb
+C:\Users\Aiden\Desktop\Development\GuildMissionTracker\GuildMissionsTracker\GuildMissionsTracker\obj\Debug\net6.0-windows\GuildMissionsTracker.genruntimeconfig.cache
